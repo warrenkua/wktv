@@ -2,103 +2,99 @@
 
 
 <item>
-<title>Warren IPTV</title>
+<title>wktv</title></title>
 <link>http://</link>
 <thumbnail></thumbnail>
 
 <item>
-<title> 1. TV1 RTM</title>
-<link>http://edge.rtm.swiftserve.com/live/rtm/amlst:rtm-ch001/playlist.m3u8</link>
-<thumbnail>http://mystream.rtm.gov.my/images/tv1rtm.png</thumbnail>
+<title> 1. SportHD</title>
+<link>http://cmorehlsedc-i.akamaihd.net/hls/live/208145/cmsporthd/01.m3u8</link>
+<thumbnail></thumbnail>
 
 <item>
-<title> 2. TV2 RTM</title>
-<link>http://edge.rtm.swiftserve.com/live/rtm/amlst:rtm-ch003/playlist.m3u8</link>
-<thumbnail>http://mystream.rtm.gov.my/images/tv2rtm.png</thumbnail>
+<title> 2. Extreme Sports</title>
+<link>http://hls.novotelecom.ru/streaming/extreme_sports/tvrec/playlist.m3u8</link>
+<thumbnail></thumbnail>
 
 <item>
-<title> 3. TV3 Media Prima</title>
-<link>http://tv3liveios-i.akamaihd.net/hls/live/205900/ios/tv3live/master.m3u8</link>
-<thumbnail>http://1.bp.blogspot.com/-YhOfMfADEMQ/T34Y8RA_TBI/AAAAAAAAAr0/QscSkCO34kU/s1600/tv3.jpg</thumbnail>
+<title> 3. Viasat Sport</title>
+<link>http://hls.novotelecom.ru/streaming/viasat_sport/tvrec/playlist.m3u8</link>
+<thumbnail></thumbnail>
 
 <item>
-<title> 4. TVi RTM</title>
-<link>http://edge.rtm.swiftserve.com/live/rtm/amlst:rtm-ch005/playlist.m3u8</link>
-<thumbnail>http://mystream.rtm.gov.my/images/logotvi.png</thumbnail>
+<title> 4. Football</title>
+<link>http://hls.novotelecom.ru/streaming/futbol/tvrec/playlist.m3u8</link>
+<thumbnail></thumbnail>
 
 <item>
-<title> 5. Muzik Aktif RTM</title>
-<link>http://edge.rtm.swiftserve.com/live/rtm/amlst:rtm-ch006/playlist.m3u8</link>
-<thumbnail>http://3.bp.blogspot.com/-Fx5JgNwdNtM/UA8Vd7NTZxI/AAAAAAAAAQU/IUtRr6EzGaU/s320/muzikaktifnew02-300x216.jpg</thumbnail>
+<title> 5. Sport 1</title>
+<link>http://hls.novotelecom.ru/streaming/sport1/tvrec/playlist.m3u8</link>
+<thumbnail></thumbnail>
 
 <item>
-<title> 6. Parlimen Live RTM</title>
-<link>http://edge.rtm.swiftserve.com/live/rtm/amlst:rtm-ch009/playlist.m3u8</link>
-<thumbnail>http://mystream.rtm.gov.my/images/parlimen.png</thumbnail>
+<title> 6. Sport 2</title>
+<link>http://hls.novotelecom.ru/streaming/sport_2/tvrec/playlist.m3u8</link>
+<thumbnail></thumbnail>
 
 <item>
-<title> 7. NTV7 Media Prima</title>
-<link>http://ntv7liveios-i.akamaihd.net/hls/live/205902/ios/ntv7live/master.m3u8</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/zh/2/28/NTV7_New.JPG</thumbnail>
+<title> 7. EUROSports HD</title>
+<link>http://hls.novotelecom.ru/streaming/eurosport/tvrec/playlist.m3u8</link>
+<thumbnail></thumbnail>
+
+<item>
+<title> 8. Nova Sport</title>
+<link>http://199.16.46.68:1935/DrundooDVR/_definst_/smil:0e536789-c03e-4d8a-af36-51f7065541e2.smil/hasbahca.m3u8</link>
+<thumbnail></thumbnail>
+
+<item>
+<title> 9. MORE Live</title>
+<link>http://cmorehlsedc-i.akamaihd.net/hls/live/208150/cmlivehd/02.m3u8</link>
+<thumbnail></thumbnail>
+
+<item>
+<title>10. MORE Live 2</title>
+<link>http://cmorehlsedc-i.akamaihd.net/hls/live/208151/cmlive2/03.m3u8</link>
+<thumbnail></thumbnail>
+
+<item>
+<title>11. MORE Live 3</title>
+<link>http://cmorehlsedc-i.akamaihd.net/hls/live/208152/cmlive3/04.m3u</link>
+<thumbnail></thumbnail>
+
 </item>
+<title> 12. MORE Live 4</title>
+<link>http://cmorehlsedc-i.akamaihd.net/hls/live/208153/cmlive4/05.m3u8</link>
+<thumbnail></thumbnail>
 
 <item>
-<title> 8. 8TV Media Prima</title>
-<link>http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master.m3u8</link>
-<thumbnail>https://lh4.googleusercontent.com/-nO726o6jsK4/TX62-KTRL7I/AAAAAAAAAHk/CDs1CIey2-E/s1600/fg.jpg</thumbnail>
-</item>
+<title> 13. MORE Live Extreme</title>
+<link>http://cmorehlsedc-i.akamaihd.net/hls/live/208148/cmextreme/02.m3u8</link>
+<thumbnail></thumbnail>
 
 <item>
-<title> 9. TV9 Media Prima</title>
-<link>http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master.m3u8</link>
-<thumbnail>http://4.bp.blogspot.com/-4AJMhfzV-fY/Um5MEGkIiLI/AAAAAAAADPM/Np-tNkbeiSc/s200/tv9.gif</thumbnail>
-</item>
+<title> 14. MORE Live Football</title>
+<link>http://cmorehlsedc-i.akamaihd.net/hls/live/208154/cmfotboll/01.m3u8</link>
+<thumbnail></thumbnail>
 
 <item>
-<title>10. TV Selangor</title>
-<link>rtmp://live2.selangorku.com/selangorlive2/channel1 playpath=channel1 swfUrl=http://wwitv.com/player/player15.swf?file=channel1&autostart=true&plugins=livestream&streamer=rtmp%3A%2F%2Flive2.selangorku.com%2Fselangorlive2 live=1 pageUrl=http://wwitv.com/tv_channels/b5577.htm</link>
-<thumbnail>http://2.bp.blogspot.com/-8u7Y0w70TFk/T5lp_O2O47I/AAAAAAAAAlc/fAIyoEL410k/s320/TV%2BSelangor.jpg</thumbnail>
+<title> 15. MORE Live Sport</title>
+<link>http://cmorehlsedc-i.akamaihd.net/hls/live/208145/cmsporthd/01.m3u8</link>
+<thumbnail></thumbnail>
 
 <item>
-<title>11. Astro Awani</title>
-<link>http://awaniioslive-i.akamaihd.net/hls/live/207096-b/awaniIOSLiveStream@207096/awani_stream.m3u8</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/ms/e/ee/Astro-awani.jpg</thumbnail>
-</item>
-
-
-<title>1. KLFM - Rentak Interaktif Kota</title>
-<link>http://edge.rtm.swiftserve.com/live/rtm/rtm-ch012/playlist.m3u8</link>
-<thumbnail>https://pbs.twimg.com/profile_images/3049229649/4c2dbbaf3c26e7294bbbaeb4d3d97ac4.jpeg</thumbnail>
+<title> 16. MORE Live Tennis</title>
+<link>http://cmorehlsedc-i.akamaihd.net/hls/live/208147/cmtennis/04.m3u8</link>
+<thumbnail></thumbnail>
 
 <item>
-<title>2. Traxx FM</title>
-<link>http://edge.rtm.swiftserve.com/live/rtm/rtm-ch013/playlist.m3u8</link>
-<thumbnail>http://www.listenfmradios.com/wp-content/uploads/2013/04/Traxx-FM-Malaysia-Logo.png</thumbnail>
+<title> 17. FOX Sports *******</title>
+<link>http://m24.megafun.vn/live.vs?c=vstv042&q=high</link>
+<thumbnail></thumbnail>
 
 <item>
-<title>3. AI FM</title>
-<link>http://edge.rtm.swiftserve.com/live/rtm/rtm-ch014/playlist.m3u8</link>
-<thumbnail>http://www.liveonlineradio.net/wp-content/uploads/2011/06/Ai-Fm.jpg</thumbnail>
-
-<item>
-<title>4. Minnal FM</title>
-<link>http://edge.rtm.swiftserve.com/live/rtm/rtm-ch015/playlist.m3u8</link>
-<thumbnail>http://4.bp.blogspot.com/-GKZ7ybkIg1g/UlWOSnjKAxI/AAAAAAAAABk/31tUeEloMGg/s1600/minnal.jpg</thumbnail>
-
-<item>
-<title>6. Asyik FM - Lain Dari Yang Lain</title>
-<link>http://edge.rtm.swiftserve.com/live/rtm/rtm-ch016/playlist.m3u8</link>
-<thumbnail>http://4.bp.blogspot.com/_zCmbmDTQqos/TTWSDyHNw1I/AAAAAAAAIg4/C98mZMUziuY/s400/LOGO_ASYIK_FM.JPG</thumbnail>
-
-<item>
-<title>7. WAI FM</title>
-<link>http://edge.rtm.swiftserve.com/live/rtm/rtm-ch017/playlist.m3u8</link>
-<thumbnail>https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash1/t5/373520_391977918277_1388856939_n.jpg</thumbnail>
-
-<item>
-<title>8. Sabah FM</title>
-<link>http://edge.rtm.swiftserve.com/live/rtm/rtm-ch018/playlist.m3u8</link>
-<thumbnail>http://3.bp.blogspot.com/_C_IxytAZLIM/TOXonuQ46rI/AAAAAAAAAFY/ke8VB5iG908/s1600/sabah%2Bfm.jpg</thumbnail>
+<title> 18. Kanal Sport</title>
+<link>http://lswb-de-08.servers.octoshape.net:1935/live/kanalsport_2000k/playlist.m3u8</link>
+<thumbnail></thumbnail>
 
 <item>
 <title>9. Selangor FM</title>
