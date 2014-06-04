@@ -52,12 +52,12 @@
 <thumbnail></thumbnail>
 
 <item>
-<title>10. MORE Live 2</title>
+<title> 10. MORE Live 2</title>
 <link>http://cmorehlsedc-i.akamaihd.net/hls/live/208151/cmlive2/03.m3u8</link>
 <thumbnail></thumbnail>
 
 <item>
-<title>11. MORE Live 3</title>
+<title> 11. MORE Live 3</title>
 <link>http://cmorehlsedc-i.akamaihd.net/hls/live/208152/cmlive3/04.m3u</link>
 <thumbnail></thumbnail>
 
@@ -95,6 +95,61 @@
 <title> 18. Kanal Sport</title>
 <link>http://lswb-de-08.servers.octoshape.net:1935/live/kanalsport_2000k/playlist.m3u8</link>
 <thumbnail></thumbnail>
+
+<item>
+<title> 19> NBA TV HD</title>
+<link>http://nba247.cdnak.nbahd.neulion.com/mobile/nba/nba247/as/live/ipad_1840.m3u8</link>
+<thumbnail></thumbnail>
+
+<item>
+<title> 20. PAC 12 Network</title>
+<link>http://xrxs.net/video/live-p12netw-2328.m3u8</link>
+<thumbnail></thumbnail>
+
+<item>
+<title> 21. PAC 12 Network Washington</title>
+<link>http://xrxs.net/video/live-p12wash-2328.m3u8</link>
+<thumbnail></thumbnail>
+
+<item>
+<title> 22. SPORT 1 Denmark *****</title>
+<link>http://195.168.86.220:80/live/playstream2.m3u8?channel=3</link>
+<thumbnail></thumbnail>
+
+<item>
+<title> 23. EUROSport UK *****</title>
+<link>http://195.168.86.220:80/live/playstream2.m3u8?channel=44</link>
+<thumbnail></thumbnail>
+
+<item>
+<title> 24. SKY Sports 1 *****</title>
+<link>http://195.168.86.220:80/live/playstream2.m3u8?channel=23</link>
+<thumbnail></thumbnail>
+
+<item>
+<title> 25. SKY Sports 2 *****</title>
+<link>http://195.168.86.220:80/live/playstream2.m3u8?channel=27</link>
+<thumbnail></thumbnail>
+
+<item>
+<title> 26. SKY Sports 3</title>
+<link>http://195.168.86.220:80/live/playstream2.m3u8?channel=28</link>
+<thumbnail></thumbnail>
+
+<item>
+<title>9. Selangor FM</title>
+<link>http://edge.rtm.swiftserve.com/live/rtm/rtm-ch019/playlist.m3u8</link>
+<thumbnail>http://img163.imageshack.us/img163/3658/selangorfmeditedbytepak.png</thumbnail>
+
+<item>
+<title>9. Selangor FM</title>
+<link>http://edge.rtm.swiftserve.com/live/rtm/rtm-ch019/playlist.m3u8</link>
+<thumbnail>http://img163.imageshack.us/img163/3658/selangorfmeditedbytepak.png</thumbnail>
+
+<item>
+<title>9. Selangor FM</title>
+<link>http://edge.rtm.swiftserve.com/live/rtm/rtm-ch019/playlist.m3u8</link>
+<thumbnail>http://img163.imageshack.us/img163/3658/selangorfmeditedbytepak.png</thumbnail>
 
 <item>
 <title>9. Selangor FM</title>
